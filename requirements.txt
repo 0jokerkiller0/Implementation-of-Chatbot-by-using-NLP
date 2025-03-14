@@ -1,0 +1,7 @@
+streamlit
+scikit-learn
+nltk
+textblob
+numpy
+pandas
+datetime
